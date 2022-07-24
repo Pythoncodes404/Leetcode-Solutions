@@ -5,7 +5,7 @@ Please feel free to contribute in other languages using the guidelines below. Yo
 ## Guidelines:
 
 1. Mention the Time and Space Complexities at the bottom of your code in commments.
-2. Name the file as: \<Problem Number on Leetcode\> - \<Problem Name\> . \<Language Extension\>. For example: "217-Contains-Duplicate.py".
+2. Name the file as: \<Problem Number on Leetcode\> - \<Problem Name\> . \<Language Extension\>. <br> For example: "217-Contains-Duplicate.py".
 3. Ensure your code is clean and easy to understand. Please follow meaningful variable/ function/ class naming conventions.
 4. Ensure your code passes submission on [leetcode.com](https://leetcode.com/)
  
