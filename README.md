@@ -1,5 +1,5 @@
 # Leetcode-Solutions
-LeetCode Code Solutions from my YouTube channel: https://www.youtube.com/channel/UCm74o_bBtol9Wu7_Rpd6VbQ 
+LeetCode Code Solutions from my YouTube channel: https://www.youtube.com/channel/UCm74o_bBtol9Wu7_Rpd6VbQ. <br>
 Please feel free to contribute in other languages using the guidelines below. You can fork this repository and open a Pull Request against the 'main' branch for a problem that is not solved in your programming language yet.
 
 ## Guidelines:
